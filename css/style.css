@@ -100,8 +100,8 @@ p {
 }
 
 .section-title {
-  position: relative;
-  padding-bottom: 22px;
+  position: relative !important; 
+  padding-bottom: 22px !important;
 }
 
 #about,
@@ -443,6 +443,7 @@ a:hover, a:active, a:focus {
   padding-bottom: 22px;
 }
 
+.service-thumb:hover h1, 
 .service-thumb:hover h3 {
   transform: scale(1.1); 
 }
