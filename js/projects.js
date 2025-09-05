@@ -3,6 +3,24 @@ document.addEventListener('DOMContentLoaded', () => {
   const projectsContainer = document.getElementById('projects');
   const projectsData = [
   {
+    "title": "Dress Up Fashion on the Game Boy Advanced",
+    "image": "images/Dress-Up-Fashion-GBA.png",
+    "alt": "2340 Mytherium Screenshot",
+    "skills": ["C", "Assembly", "GBA Development", "Game Design", "Pixel Art"],
+    "description": [
+      "A game on the Game Boy Advanced where you dress up the character and walk on the runway", 
+      "Optimized for the GBA hardware and screen size to avoid tearing and lag",
+      "Created pixel art assets such as the clothes and background",
+    ],
+    "links": [
+      {
+        "label": "View GitHub",
+        "url": "https://github.com/li-kate/Dress-Up-Fashion-GBA"
+      }
+    ],
+    "categories": ["mobile-web-apps"]
+  },
+  {
     "title": "Mytherium",
     "image": "images/mytherium.png",
     "alt": "2340 Mytherium Screenshot",
