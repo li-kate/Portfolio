@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "url": "https://github.com/li-kate/Dress-Up-Fashion-GBA"
       }
     ],
-    "categories": ["mobile-web-apps"]
+    "categories": ["other-software"]
   },
   {
     "title": "Mytherium",
