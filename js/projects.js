@@ -14,6 +14,10 @@ document.addEventListener('DOMContentLoaded', () => {
       {
         "label": "View Website",
         "url": "https://haq-athon.vercel.app/"
+      },
+      {
+        "label": "Learn about the Research",
+        "url": "https://resilience.research.gatech.edu/feature/no-heat-initiative-tackles-climate-inequity-one-street-time"
       }
     ],
     "categories": ["mobile-web-apps"]
@@ -40,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "title": "Mytherium",
     "image": "images/mytherium.png",
     "alt": "2340 Mytherium Screenshot",
-    "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Django", "Python"],
+    "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Django", "Python", "SQL"],
     "description": [
       "A web application where users can collect, trade, and manage mythical creatures from across the world.", 
     ],
