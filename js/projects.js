@@ -3,9 +3,25 @@ document.addEventListener('DOMContentLoaded', () => {
   const projectsContainer = document.getElementById('projects');
   const projectsData = [
   {
+    "title": "NO-HEAT Haq-athon Website",
+    "image": "images/haq-athon.png",
+    "alt": "NO-HEAT Haq-athon Website",
+    "skills": ["React", "Python", "OpenLayers", "TypeScript"],
+    "description": [
+      "Interactive website with data that will be used to calibrate an urban microclimate model to help tell how hot it feels on streets across Atlanta", 
+    ],
+    "links": [
+      {
+        "label": "View Website",
+        "url": "https://haq-athon.vercel.app/"
+      }
+    ],
+    "categories": ["mobile-web-apps"]
+  },
+  {
     "title": "Dress Up Fashion on the Game Boy Advanced",
     "image": "images/Dress-Up-Fashion-GBA.png",
-    "alt": "2340 Mytherium Screenshot",
+    "alt": "Dress Up Fashion GBA",
     "skills": ["C", "Assembly", "GBA Development", "Game Design", "Pixel Art"],
     "description": [
       "A game on the Game Boy Advanced where you dress up the character and walk on the runway", 
