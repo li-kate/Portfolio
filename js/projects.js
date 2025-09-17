@@ -3,6 +3,22 @@ document.addEventListener('DOMContentLoaded', () => {
   const projectsContainer = document.getElementById('projects');
   const projectsData = [
   {
+    "title": "VIP - Unlocking and Analyzing Historical Texts",
+    "image": "images/VIP-Historical-Texts.png",
+    "alt": "VIP-Historical-Texts",
+    "skills": ["Natural Language Processing", "Python", "Data Science", "AI", "Machine Learning"],
+    "description": [
+      "Analyzing Early Modern English Orthography", 
+    ],
+    "links": [
+      {
+        "label": "View More about VIP",
+        "url": "https://vip.gatech.edu/frm_display/team-listings/entry/1317/"
+      },
+    ],
+    "categories": ["data-science"]
+  },
+  {
     "title": "NO-HEAT Haq-athon Website",
     "image": "images/haq-athon.png",
     "alt": "NO-HEAT Haq-athon Website",
