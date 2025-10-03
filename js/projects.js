@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "alt": "NO-HEAT Haq-athon Website",
     "skills": ["React", "Python", "OpenLayers", "TypeScript"],
     "description": [
-      "Interactive website with data that will be used to calibrate an urban microclimate model to help tell how hot it feels on streets across Atlanta",
+      "Interactive website with data used to calibrate an urban microclimate model",
       "Performed data analysis and visualization using Python and React", 
     ],
     "links": [
