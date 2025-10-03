@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "skills": ["React", "Python", "OpenLayers", "TypeScript"],
     "description": [
       "Interactive website with data used to calibrate an urban microclimate model",
-      "Performed data analysis and visualization using Python and React", 
+      "Performed data analysis and visualization", 
     ],
     "links": [
       {
